@@ -39,7 +39,7 @@ export const MovieCard = ({
           </Subtitle>
           <Subtitle>User Score: {Math.round(vote_average * 10)}%</Subtitle>
           <Subtitle>
-            OverView:
+            Overview:
             <Text>{overview}</Text>
           </Subtitle>
           <Subtitle>
